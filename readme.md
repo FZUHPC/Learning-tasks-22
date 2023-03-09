@@ -1,4 +1,4 @@
-## ~自我介绍~
+# 自我介绍
 
 Hello，我是22级计算机6班的杨青清，学习的是优化方向。
 
@@ -20,6 +20,5 @@ https://blog.csdn.net/Qq2022_0918?spm=1000.2115.3001.5343
 
 不过既然还有给我预备队员的机会，就继续加油啦。
 
-![铜盘天空](C:\Users\yqq\Pictures\QQ图片20230310002559.jpg)
-
-![铜盘天空](C:\Users\yqq\Pictures\IMG20220913172917.jpg)
+![IMG20221117170744](https://user-images.githubusercontent.com/127377006/224088788-4a59cae4-c5f8-479b-ab35-ebc56f0a608d.jpg)
+![IMG20220913172917](https://user-images.githubusercontent.com/127377006/224088821-7e1b2d4b-0935-4517-b798-85f5201f9d27.jpg)

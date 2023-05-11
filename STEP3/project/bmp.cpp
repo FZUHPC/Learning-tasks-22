@@ -313,9 +313,6 @@ bool ZoomBmpFile(const char * toReadfilename, const char * toZoomfilename)
 
 bool GrayBmpFile(const char * toReadfilename, const char * toGrayfilename)
 {
- 
-	/*char readPath[] = "D:\\C++_file\\image_deal_C++\\IMAGE_JIEQU\\1.bmp";
-	readBmp(readPath);*/
     struct PictureData *pGray = new struct PictureData;
 	pGray->pRGBQUAD = NULL;
 	pGray->pData = NULL;
